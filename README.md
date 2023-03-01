@@ -17,7 +17,7 @@ During each simulations raw data (i.e. spikes time, weights matrices, phases, pa
 The program "plotSimulation.py" requires external libraries that can be easily installed via the "pip" command.
 This python3 program reads the raw data and plot them.
 No particular changes are required in this program. However you can adapt the way the neurons are sorted in the "Order" segment.
-Additionally, in some plots (such as spikes, phases, or mean firing rate evolution), the x)axis is rescale for better visualization and can therefore be changed.
+Additionally, in some plots (such as spikes, phases, or mean firing rate evolution), the x-axis is rescale for better visualization and can therefore be changed.
 
 
 For any questions and additional requests, contact: raphael.bergoin@upf.edu
