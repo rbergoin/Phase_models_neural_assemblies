@@ -1,4 +1,4 @@
-# Phase_models_neural_assemblies
+# Phase models neural assemblies
 Source code of the paper: "Inhibitory neurons control the consolidation of neural assemblies via adaptation to selective stimuli"
 
 To run a simulation execute the script "runSimulation.sh". 
@@ -20,4 +20,4 @@ No particular changes are required in this program. However you can adapt the wa
 Additionally, in some plots (such as spikes, phases, or mean firing rate evolution), the x-axis is rescale for better visualization and can therefore be changed.
 
 
-For any questions and additional requests, contact: raphael.bergoin@upf.edu
+For any questions and additional requests, contact: raphael.bergoin@gmail.com
